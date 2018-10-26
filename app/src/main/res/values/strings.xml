@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoTooth</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main_searching">Procurando...</string>
+    <string name="main_no_devices_found">Nenhum dispositivo encontrado</string>
+</resources>
